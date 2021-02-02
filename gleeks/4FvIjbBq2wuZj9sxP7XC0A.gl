@@ -1,0 +1,10 @@
+// Left note 
+This is a note on left:note <-- Bob 
+
+// Right note 
+Another note on right:note --> John 
+
+// Over note 
+Note over actors:note -- Sam 
+Note over actors -- Emily 
+
