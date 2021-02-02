@@ -1,0 +1,7 @@
+Template-event binding->Component
+Component-property binding->Template
+Directive-->Template
+/g Injector
+	service 1:queue
+	service 2:queue
+service 1-->Component
