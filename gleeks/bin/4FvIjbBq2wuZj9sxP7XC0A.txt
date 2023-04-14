@@ -1,1 +1,1 @@
-{"name":"Git test","configuration":{"orientation":{"type":"topdown"},"layoutEngine":{"isEnabled":true,"type":"blocks"},"connectionLines":{"type":"curved"},"standartizeWidth":false,"doctype":{"isEnabled":true,"type":"flowchart"}},"timeStamp":"2021-02-02T14:53:28.367Z","doctype":"sequence"}
+{"name":"Git test","configuration":{"orientation":{"type":"topdown"},"layoutEngine":{"isEnabled":true,"type":"blocks"},"connectionLines":{"type":"curved"},"standartizeWidth":false,"doctype":{"isEnabled":true,"type":"flowchart"}},"timeStamp":"2023-04-14T09:56:16.987Z","doctype":"sequence"}
