@@ -1,1 +1,1 @@
-{"name":"New Diagram","configuration":{"orientation":{"type":"topdown"},"layoutEngine":{"isEnabled":true,"type":"blocks"},"connectionLines":{"type":"curved"},"standartizeWidth":false,"doctype":{"isEnabled":true,"type":"flowchart"}},"timeStamp":"2021-02-02T10:52:59.909Z"}
+{"name":"New Diagram","configuration":{"orientation":{"type":"topdown"},"layoutEngine":{"isEnabled":true,"type":"blocks"},"connectionLines":{"type":"curved"},"standartizeWidth":false,"doctype":{"isEnabled":true,"type":"flowchart"}},"timeStamp":"2023-04-18T10:17:38.967Z"}

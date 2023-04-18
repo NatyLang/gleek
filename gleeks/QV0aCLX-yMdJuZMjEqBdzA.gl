@@ -5,3 +5,5 @@ Directive-->Template
 	service 1:queue
 	service 2:queue
 service 1-->Component
+
+Test
